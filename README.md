@@ -11,9 +11,3 @@ Minha primeira experiência com código foi na época em que existiu a sede pelo
 A emoção de ter a possibilidade de estruturar páginas apenas com o seu próprio esforço é algo incrível. Você começa pelo básico, ninguém entende nada e, foi, você tem um projeto concluido.
 
 **Precisando de algum projeto novo ou sistema em especifíco? Entre em contato comigo e vamos desvendar esse mundo de código juntos!**
-
-
-
-Minha primeira experiência com código foi na época em que todos tinham um Wix. Lembro-me de tentar encontrar uma maneira de mudar a cor de fundo e ter um texto chamativo. Eu costumava passar horas tentando personalizá-lo e nem conseguia ver o tempo passar. A emoção de ter o poder de estruturar páginas por conta própria foi incrível. É como lego. Você começa peça por peça, ninguém entende o que está construindo e pronto... você tem um castelo de códigos.
-
-**Precisando de projeto novo para sua empresa? Entre em contato e vamos criar algo incrível juntos.**
