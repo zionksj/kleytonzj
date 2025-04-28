@@ -10,13 +10,4 @@ Meu nome é Kleyton Marques, ou "zy" (codinome da área virtual). Sou um desenvo
 Minha primeira experiência com código foi na época em que existiu a sede pelo forumeiros. Me lembro perfeitamente de tentar encontrar formas de mudar alguns elementos e tentar trazer à tona de alguma forma. Eu costumava passar horas tentando personalizar o meu "site" e nem percebia que, ao piscar de olhos, o dia já tinha se passado. 
 A emoção de ter a possibilidade de estruturar páginas apenas com o seu próprio esforço é algo incrível. Você começa pelo básico, ninguém entende nada e, foi, você tem um projeto concluido.
 
-### Experiência de trabalho
-
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
-
-<p>Em desenvolvimento.</p>
-
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/-/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
-
-
 **Precisando de algum projeto novo ou sistema em especifíco? Entre em contato comigo e vamos desvendar esse mundo de código juntos!**
