@@ -14,8 +14,6 @@ A emoção de ter a possibilidade de estruturar páginas apenas com o seu própr
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
-
 <p>Em desenvolvimento.</p>
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/-/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
