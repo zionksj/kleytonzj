@@ -2,8 +2,8 @@
 
 ### Desenvolvedor Frontend 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Meu%20LinkedIn-0000FF?style=flat-square&logo=Linkedin&logoColor=212121&link=https://www.linkedin.com/in/kleytonzj/)](https://www.linkedin.com/in/kleytonzj/) 
-[![Gmail Badge](https://img.shields.io/badge/-kleytonzj@gmail.com-0000FF?style=flat-square&logo=Gmail&logoColor=212121&link=mailto:kleytonzj@gmail.com)](kleytonzj@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Meu%20LinkedIn-FFFFFF?style=flat-square&logo=Linkedin&logoColor=212121&link=https://www.linkedin.com/in/kleytonzj/)](https://www.linkedin.com/in/kleytonzj/) 
+[![Gmail Badge](https://img.shields.io/badge/-kleytonzj@gmail.com-FFFFFF?style=flat-square&logo=Gmail&logoColor=212121&link=mailto:kleytonzj@gmail.com)](kleytonzj@gmail.com)
 
 Meu nome é Kleyton Marques, ou "zy" (codinome da área virtual). Sou um desenvolvedor frontend em constante evolução desde 2022. Sou extremamente apaixonado pela minha namorada Lelly.
 
