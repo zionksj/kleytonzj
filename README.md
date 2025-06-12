@@ -1,13 +1,13 @@
-# Kleyton Marques
+# zi0nks
 
-### Desenvolvedor Frontend 
+### Desenvolvedor Frontend & UI/UX Designer
 
 [![Linkedin Badge](https://img.shields.io/badge/-Meu%20LinkedIn-FFFFFF?style=flat-square&logo=Linkedin&logoColor=212121&link=https://www.linkedin.com/in/kleytonzj/)](https://www.linkedin.com/in/kleytonzj/) 
 [![Gmail Badge](https://img.shields.io/badge/-kleytonzj@gmail.com-FFFFFF?style=flat-square&logo=Gmail&logoColor=212121&link=mailto:kleytonzj@gmail.com)](kleytonzj@gmail.com)
 
-Meu nome é Kleyton Marques, ou "zy" (codinome da área virtual). Sou um desenvolvedor frontend em constante evolução desde 2022. Sou extremamente apaixonado pela minha namorada Lelly.
+My name is Kleyton Marques, also known as "zy" (my codename in the virtual world). I'm a frontend developer constantly evolving since 2022. I'm deeply in love with my girlfriend, Lelly.
 
-Minha primeira experiência com código foi na época em que existiu a sede pelo forumeiros. Me lembro perfeitamente de tentar encontrar formas de mudar alguns elementos e tentar trazer à tona de alguma forma. Eu costumava passar horas tentando personalizar o meu "site" e nem percebia que, ao piscar de olhos, o dia já tinha se passado. 
-A emoção de ter a possibilidade de estruturar páginas apenas com o seu próprio esforço é algo incrível. Você começa pelo básico, ninguém entende nada e, foi, você tem um projeto concluido.
+My first experience with code was back in the days of Forumotion communities. I clearly remember trying to find ways to change some elements and bring new things to life. I used to spend hours customizing my “site” without even noticing how quickly the day would fly by.
+The thrill of being able to build pages with just your own effort is simply incredible. You start with the basics, nothing makes sense at first and then suddenly, boom, you have a finished project.
 
-**Precisando de algum projeto novo ou sistema em especifíco? Entre em contato comigo e vamos desvendar esse mundo de código juntos!**
+**Need a new project or a specific system? Get in touch with me and let’s explore this world of code together!**
