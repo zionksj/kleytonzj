@@ -1,6 +1,6 @@
 # zi0nks
 
-### Desenvolvedor Frontend & UI/UX Designer
+### Developer Frontend & UI/UX Designer
 
 [![Linkedin Badge](https://img.shields.io/badge/-Meu%20LinkedIn-FFFFFF?style=flat-square&logo=Linkedin&logoColor=212121&link=https://www.linkedin.com/in/zionks/)](https://www.linkedin.com/in/zionks/) 
 [![Gmail Badge](https://img.shields.io/badge/-contatozionks@gmail.com-FFFFFF?style=flat-square&logo=Gmail&logoColor=212121&link=mailto:contatozionks@gmail.com)](contatozionks@gmail.com)
